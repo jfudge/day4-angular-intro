@@ -1,0 +1,13 @@
+table.bookshelf {
+  border: 1px solid #666;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table.bookshelf th {
+  border: 1px solid #666;
+}
+
+table.bookshelf td {
+  border: 1px solid #666;
+}

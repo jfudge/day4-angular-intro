@@ -1,0 +1,17 @@
+<h3>Bookshelf</h3>
+<table class="bookshelf">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Author</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let book of books">
+      <td>{{ book.name }}</td>
+      <td>{{ book.author }}</td>
+      <td>{{ book.price | currency }}</td>
+    </tr>
+  </tbody>
+</table>
