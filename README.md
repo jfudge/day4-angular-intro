@@ -1,4 +1,4 @@
-# Angular review notes for day4 Sceneca
+# Angular review notes for day4 Seneca
 
 ## Get node_modules
 
