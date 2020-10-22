@@ -1,4 +1,4 @@
-# Demo
+# Angular review notes for day4 Sceneca
 
 ## Get node_modules
 
